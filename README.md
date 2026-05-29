@@ -6,6 +6,35 @@ Based on the original [RTx-Calendar](https://metacpan.org/dist/RTx-Calendar) by 
 
 ---
 
+## Screenshots
+
+### Month View
+Full month overview with colour-coded event bars. Spanning tickets extend across multiple days. Today is highlighted in amber.
+
+![Month View](docs/screenshots/NewCalendarMonthView.png)
+
+### Week View
+Seven-column week layout with full event cards showing ticket ID, subject, queue, status and owner.
+
+![Week View](docs/screenshots/NewCalendarWeekView.png)
+
+### Day View
+Scrollable card list for a single day with sidebar filter, event types, status colours and help section.
+
+![Day View](docs/screenshots/NewCalendarDayListView.png)
+
+### MyCalendarToday Dashboard Widget
+Today's tickets as cards — sorted by Due date, with queue, status, owner, requestor and date details.
+
+![Today's Calendar Widget](docs/screenshots/TodaysListWidget.png)
+
+### MyCalendar Dashboard Widget
+Classic week portlet for embedding a compact calendar view on any RT dashboard.
+
+![Week Widget](docs/screenshots/WeekWidget.png)
+
+---
+
 ## Description
 
 RTx::Calendar provides a calendar view to display tickets and reminders based on selected date fields. Once installed, a **Calendar** tab appears in ticket search results. Three calendar views are available: Month, Week, and Day. Multiple dashboard portlets are included.

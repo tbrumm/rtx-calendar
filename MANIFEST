@@ -43,3 +43,8 @@ static/images/starts_due.png
 static/images/updated.png
 static/js/calendar.js
 TODO
+docs/screenshots/NewCalendarDayListView.png
+docs/screenshots/NewCalendarMonthView.png
+docs/screenshots/NewCalendarWeekView.png
+docs/screenshots/TodaysListWidget.png
+docs/screenshots/WeekWidget.png
