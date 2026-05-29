@@ -112,6 +112,11 @@ msgstr "Constructeur de requêtes"
 msgid "Status Colors"
 msgstr "Couleurs des statuts"
 
+#. ($Object->OwnerObj->Name)
+#: html/Elements/CalendarEvent:69
+msgid "by %1"
+msgstr "par %1"
+
 #: html/Elements/Calendar:177
 msgid "Submit"
 msgstr "Valider"
